@@ -97,7 +97,8 @@ uint64_t des_decrypt(uint64_t block, uint64_t subkeys[16]) {
 ```
 ## Output:
 
-![output](./image.png)
+![image](https://github.com/user-attachments/assets/d54aff88-1209-4c74-a10c-f790bb7059a4)
+
 ## Result:
   The program is executed successfully
 
